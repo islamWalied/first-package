@@ -1,0 +1,21 @@
+{
+    "name": "islam/quick",
+    "description": "this package is for creating simple crud operations for simple project",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Islam\\Quick\\": "src/"
+        }
+    },
+
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./packages/vendor/quick"
+        }
+    ],
+    "require": {
+        "vendor/package-name": "*"
+    }
+}
