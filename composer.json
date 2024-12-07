@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "path",
-            "url": "https://github.com/your-repo/islam-walied/quick"
+            "url": "https://github.com/islamWalied/first-package"
         }
     ],
     "require": {
