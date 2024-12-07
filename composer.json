@@ -17,5 +17,6 @@
     ],
     "require": {
         "vendor/package-name": "*"
-    }
+    },
+    "minimum-stability": "stable"
 }
