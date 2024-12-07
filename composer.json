@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "vendor/package-name": "*"
+        "vendor/islam-walied/quick": "*"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
